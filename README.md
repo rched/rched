@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rched
 - 👀 I’m interested in economics / econometrics / open source coding
-- 🌱 I’m currently learning R & Stata 
+- 🌱 I’m currently learning R & Stata & Matlab
 - 💞️ I’m looking to collaborate on creating cool tools for students using open data
 - 📫 How to reach me: reza.daniels@uct.ac.za
 
